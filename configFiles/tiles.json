@@ -1,0 +1,16 @@
+{
+    "tile": [
+        {
+            "image": "tiles_set_1.png",
+            "tag": "grass",
+            "textureTag": "tile",
+            "hitboxWidth": 312,
+            "hitboxHeight": 179,
+            "width": 353,
+            "height": 209,
+            "top": 0,
+            "left": 96,
+            "scale": 0.1
+        }
+    ]
+}
