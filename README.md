@@ -20,4 +20,3 @@ The project aimed to create a city-building game inspired by the mechanics of Cl
 clone the repository
 install SFML
 launch the .sh
-resources, libraries, or references used during the development of the project.
